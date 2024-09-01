@@ -39,7 +39,7 @@
 | 김창민 | akuxxr0422@gmail.com |         |         |         |
 | 김도향 | kimdohyang4@gmail.com |         |         |         |
 | 손유진 | qeugene2328@gamil.com |         |         |         |
-| 김채민 | brian2562@gmail.com |         |         |         |
+| 김채민 | brian2562@gmail.com |frontend  |fastapi  |spring |
 | 신중원 | joongwon0204@gmail.com |         |         |         |
 | 최성준 | csjun@snu.ac.kr |         |         |         |
 | 박송희 | pine98@snu.ac.kr |         |         |         |
