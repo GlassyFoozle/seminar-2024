@@ -4,7 +4,7 @@ import { como0904Assignment } from '@/assignments/Como0904';
 import { environmentSetupAssignment } from '@/assignments/EnvironmentSetup';
 import { makeGame1Assignment } from '@/assignments/MakeGame1/assignment';
 import { profilePageAssignment } from '@/assignments/ProfilePage';
-import { reactTutorialAssignment } from '@/assignments/ReactTutorial';
+import { tutorialAssignment } from '@/assignments/Tutorial';
 import { environmentLecture } from '@/lectures/Environment';
 import { initializeProjectLecture } from '@/lectures/InitializeProject';
 import { otLecture } from '@/lectures/OT';
@@ -96,7 +96,7 @@ export const pages: (
     type: 'lecture',
     title: '프론트엔드 인프라',
     description: '',
-    date: new Date('2024-11-13'),
+    date: new Date('2024-11-20'),
     path: '/infrastructure',
     element: <div>TBD</div>,
   },
@@ -104,13 +104,13 @@ export const pages: (
     type: 'lecture',
     title: '마무리',
     description: '',
-    date: new Date('2024-11-13'),
+    date: new Date('2024-11-20'),
     path: '/end',
     element: <div>TBD</div>,
   },
   { path: '/como-0904', ...como0904Assignment },
   { path: '/environment-setup', ...environmentSetupAssignment },
-  { path: '/react-tutorial', ...reactTutorialAssignment },
+  { path: '/tutorial', ...tutorialAssignment },
   { path: '/profile', ...profilePageAssignment },
   { path: '/make-game-1', ...makeGame1Assignment },
 ];
